@@ -1,0 +1,16 @@
+							University System Business Rules
+
+There are many departments and each of them has its own name and ID.
+The university has many professors each of them has his own ID, name and salary.
+Students have a student ID, name , GPA , total credits and semester .
+Each course has a course name, course ID and credit hours.
+Classes have IDs.
+
+Each department has many students and professors, but each professor and each student belong to one department. 
+Each department has one or more courses but each course belongs to only one of the departments 
+Each course has one head professor.
+Each professor teaches one or more courses and also courses are taught by one or more professors.
+Each course has one or none prerequisite courses.
+Each course has none or many classes.
+Each student takes one or more courses and each course is given to none or many students.
+Each class has one or more students but only one professor and each student belongs to one or many classes while each professor teaches one or more classes.
